@@ -1,2 +1,2 @@
 # Untitled-FNAF-Game
-Uh erm uh
+This is a fnaf project made by: Lucas, Abe, and Wilton
